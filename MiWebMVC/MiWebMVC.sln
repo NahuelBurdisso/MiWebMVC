@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiWebMVC", "MiWebMVC\MiWebMVC.csproj", "{4E30EC14-725D-43C7-BC40-5288F880822D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiWebMVC.Tests", "MiWebMVC.Tests\MiWebMVC.Tests.csproj", "{F6FD7B59-F447-4A16-82E5-159AB0358013}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E30EC14-725D-43C7-BC40-5288F880822D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E30EC14-725D-43C7-BC40-5288F880822D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E30EC14-725D-43C7-BC40-5288F880822D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E30EC14-725D-43C7-BC40-5288F880822D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6FD7B59-F447-4A16-82E5-159AB0358013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6FD7B59-F447-4A16-82E5-159AB0358013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6FD7B59-F447-4A16-82E5-159AB0358013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6FD7B59-F447-4A16-82E5-159AB0358013}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
